@@ -4,7 +4,8 @@
   "description": "GitHub Desktop for Mac 汉化语言包",
   "main": "chart.js",
   "scripts": {
-    "test": "bash install"
+    "install": "bash install.sh",
+    "uninstall": "bash install.sh uninstall"
   },
   "files": [
     "dist","src"

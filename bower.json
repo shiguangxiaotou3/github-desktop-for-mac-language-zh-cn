@@ -1,0 +1,25 @@
+{
+  "name": "github-desktop-for-mac-language-zh-cn",
+  "description": "GitHub Desktop for Mac 汉化语言包",
+  "main": "chart.js",
+  "authors": [
+    "shiguangxiaotou"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "github",
+    "desktop",
+    "language",
+    "zh-CN"
+  ],
+  "repository": "https://github.com/shiguangxiaotou3/github-desktop-for-mac-language-zh-cn",
+  "homepage": "https://github.com/shiguangxiaotou3/github-desktop-for-mac-language-zh-cn",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/bower-asset",
+    "test",
+    "tests"
+  ]
+}
